@@ -1,0 +1,12 @@
+C:\Users\WILADE\Documents\upds\6 semestre\PROG WEB ii\SISTEMA INVENTARIO\mvcInventarioWeb.Models\bin\Release\net8.0\mvcInventarioWeb.Models.deps.json
+C:\Users\WILADE\Documents\upds\6 semestre\PROG WEB ii\SISTEMA INVENTARIO\mvcInventarioWeb.Models\bin\Release\net8.0\mvcInventarioWeb.Models.dll
+C:\Users\WILADE\Documents\upds\6 semestre\PROG WEB ii\SISTEMA INVENTARIO\mvcInventarioWeb.Models\bin\Release\net8.0\mvcInventarioWeb.Models.pdb
+C:\Users\WILADE\Documents\upds\6 semestre\PROG WEB ii\SISTEMA INVENTARIO\mvcInventarioWeb.Models\obj\Release\net8.0\mvcInventarioWeb.Models.csproj.AssemblyReference.cache
+C:\Users\WILADE\Documents\upds\6 semestre\PROG WEB ii\SISTEMA INVENTARIO\mvcInventarioWeb.Models\obj\Release\net8.0\mvcInventarioWeb.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WILADE\Documents\upds\6 semestre\PROG WEB ii\SISTEMA INVENTARIO\mvcInventarioWeb.Models\obj\Release\net8.0\mvcInventarioWeb.Models.AssemblyInfoInputs.cache
+C:\Users\WILADE\Documents\upds\6 semestre\PROG WEB ii\SISTEMA INVENTARIO\mvcInventarioWeb.Models\obj\Release\net8.0\mvcInventarioWeb.Models.AssemblyInfo.cs
+C:\Users\WILADE\Documents\upds\6 semestre\PROG WEB ii\SISTEMA INVENTARIO\mvcInventarioWeb.Models\obj\Release\net8.0\mvcInventarioWeb.Models.csproj.CoreCompileInputs.cache
+C:\Users\WILADE\Documents\upds\6 semestre\PROG WEB ii\SISTEMA INVENTARIO\mvcInventarioWeb.Models\obj\Release\net8.0\mvcInventarioWeb.Models.dll
+C:\Users\WILADE\Documents\upds\6 semestre\PROG WEB ii\SISTEMA INVENTARIO\mvcInventarioWeb.Models\obj\Release\net8.0\refint\mvcInventarioWeb.Models.dll
+C:\Users\WILADE\Documents\upds\6 semestre\PROG WEB ii\SISTEMA INVENTARIO\mvcInventarioWeb.Models\obj\Release\net8.0\mvcInventarioWeb.Models.pdb
+C:\Users\WILADE\Documents\upds\6 semestre\PROG WEB ii\SISTEMA INVENTARIO\mvcInventarioWeb.Models\obj\Release\net8.0\ref\mvcInventarioWeb.Models.dll

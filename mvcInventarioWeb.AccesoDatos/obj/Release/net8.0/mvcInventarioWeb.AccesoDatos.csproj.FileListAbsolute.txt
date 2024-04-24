@@ -1,0 +1,5 @@
+C:\Users\WILADE\Documents\upds\6 semestre\PROG WEB ii\SISTEMA INVENTARIO\mvcInventarioWeb.AccesoDatos\obj\Release\net8.0\mvcInventarioWeb.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\WILADE\Documents\upds\6 semestre\PROG WEB ii\SISTEMA INVENTARIO\mvcInventarioWeb.AccesoDatos\obj\Release\net8.0\mvcInventarioWeb.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WILADE\Documents\upds\6 semestre\PROG WEB ii\SISTEMA INVENTARIO\mvcInventarioWeb.AccesoDatos\obj\Release\net8.0\mvcInventarioWeb.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\WILADE\Documents\upds\6 semestre\PROG WEB ii\SISTEMA INVENTARIO\mvcInventarioWeb.AccesoDatos\obj\Release\net8.0\mvcInventarioWeb.AccesoDatos.AssemblyInfo.cs
+C:\Users\WILADE\Documents\upds\6 semestre\PROG WEB ii\SISTEMA INVENTARIO\mvcInventarioWeb.AccesoDatos\obj\Release\net8.0\mvcInventarioWeb.AccesoDatos.csproj.CoreCompileInputs.cache
